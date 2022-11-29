@@ -1,0 +1,5 @@
+from __future__ import absolute_import
+
+import albert.modules.dependency_decoders.base_dependency_decoder
+import albert.modules.dependency_decoders.basic_dependency_decoder
+import albert.modules.dependency_decoders.mst_edges_and_labels_dependency_decoder

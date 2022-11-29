@@ -1,0 +1,6 @@
+from __future__ import absolute_import
+
+import albert.reader.albert_classification_reader
+import albert.reader.albert_dependency_reader
+import albert.reader.multilingual_albert_reader
+from albert.reader.albert_reader import AlbertReader
